@@ -20,5 +20,4 @@ I could not find a way to deal with it! turtle.hide(), turtle.move(), turtle.col
 been completed. But as it turned out I didn't have to clear the cars on level up, just increase their speed. So I refactored the code a bit to increase their speed 
 [they were retaining their old speed on level up so there was a mix of car speeds between level ups] and that was that.
 
-I don't believe I'm an 'expert level coder', but I do try to do these projects on my own since I feel it's good practice and it really helps flesh out one's understanding
-of working code.
+I don't believe I'm an 'expert level coder', but I do try to do these projects on my own since I feel it's good practice and it really helps with understanding stuff.
